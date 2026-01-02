@@ -1,35 +1,74 @@
 # Physical Gym Operations Optimization Portfolio
 
 ## Challenge
-Gym setup, equipment tracking, and daily operations lacked structure, leading to inefficiencies and inconsistent member experience.
+Gym setup, equipment tracking, and daily operations lacked formal structure, leading to inefficiencies, inconsistent execution, and variability in member experience.
 
-## Solution
-- Designed **physical workflows** for class preparation, equipment maintenance, and member check-ins.
-- Compiled a comprehensive **Operations Binder** including:
-  - Equipment lists and maintenance schedules
-  - Cleaning procedures and sanitation protocols
-  - Emergency drills and safety procedures
-  - Trainer onboarding and support guides
-- All documentation created in Google Docs, saved as PDFs, and printed for use on-site.
+
+
+## Solution Overview
+I designed and implemented standardized **physical workflows** and a comprehensive **Operations Binder** to improve efficiency, consistency, and safety across daily gym operations.
+
+### Operational Workflow Design
+- Defined structured workflows for class setup, breakdown, and equipment staging  
+- Established equipment maintenance and inspection routines  
+- Standardized member check-in and daily opening/closing procedures  
+
+### Operations Binder Development
+- Created a centralized Operations Binder to serve as the on-site source of truth  
+- Documented procedures, policies, and safety protocols for staff reference  
+- Developed all documentation in Google Docs, exported as PDFs, and printed for physical use  
+
+
 
 ## Impact
-- Reduced setup and cleanup time
-- Improved member experience and satisfaction
-- Standardized operational processes for consistency and safety
+- Reduced class setup and cleanup time through standardized processes  
+- Improved consistency in daily operations and service delivery  
+- Enhanced member experience and overall satisfaction  
+- Increased safety and staff confidence through clear procedures  
 
-## Key Sections in the Operations Binder
-- **Mission Statement**: About Us, Gym Goals  
-- **Legalities**: Insurance, Licenses & Permits, Employment Compliance, Waivers, Data Privacy  
-- **Safety & Emergency**: First Aid, Fire & Evacuation Plan, Room Capacity, Injury Protocols, Biohazard Cleanup  
-- **Gym Rules & Policies**  
-- **Sanitation Protocols**  
-- **Trainer Onboarding & Support**  
-- **Equipment Inventory**  
-- **Pricing**: Memberships, Personal Training, Apparel, Drinks, Refund/Return Policy  
 
-## Overview
-This project demonstrates my ability to:  
-- Analyze operational inefficiencies and design practical solutions  
-- Standardize workflows and documentation for staff adoption  
+
+## Operations Binder Contents
+
+### Mission & Business Overview
+- Mission Statement  
+- About the Gym  
+- Business Goals  
+
+### Legal & Compliance
+- Insurance Documentation  
+- Licenses and Permits  
+- Employment Compliance  
+- Waivers and Data Privacy  
+
+### Safety & Emergency Procedures
+- First Aid Procedures  
+- Fire and Evacuation Plans  
+- Room Capacity Guidelines  
+- Injury Response Protocols  
+- Biohazard Cleanup Procedures  
+
+### Policies & Standards
+- Gym Rules and Policies  
+- Sanitation and Cleaning Protocols  
+- Equipment Usage Guidelines  
+
+### Staff Enablement
+- Trainer Onboarding Guides  
+- Ongoing Trainer Support Resources  
+
+### Inventory & Pricing
+- Equipment Inventory and Maintenance Schedules  
+- Membership Pricing  
+- Personal Training Pricing  
+- Retail and Beverage Pricing  
+- Refund and Return Policies  
+
+
+
+## Key Takeaways
+This project demonstrates my ability to:
+- Identify operational inefficiencies and design practical, real-world solutions  
+- Standardize workflows and documentation for consistent staff adoption  
 - Improve efficiency, safety, and customer experience in physical operations  
-- Deliver structured, tangible resources for ongoing operational excellence
+- Deliver structured, durable resources that support long-term operational excellence  
